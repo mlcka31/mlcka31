@@ -1,5 +1,5 @@
+# Mikhail Liublin
 
-<h1 align="center">Hey, I’m Mikhail Liublin 👋</h1>
 <p align="center">
   <em>Co-founder &amp; CTO at <strong>SugarLab</strong> — where AI meets good vibes.</em><br>
   Hacking at the frontier of <strong>AI</strong>, <strong>vibecoding</strong>, <strong>singularity</strong>, <strong>longevity</strong>, <strong>robotics</strong> &amp; <strong>start-ups</strong>.
